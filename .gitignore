@@ -1,1 +1,4 @@
-./Hello
+*.iml
+*.class
+/out/
+/.idea/
